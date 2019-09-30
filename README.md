@@ -10,3 +10,8 @@ The bot uses two main strategies called AntiGravity(反重力) for unpredictable
 3. Upon running Robocode, on the top left choose "Battle->New". Inside the list of packages choose "group08", and select "Team_group08_2018" to get a team of three OR select G08_Leader to get a single robot under "Robots".
 4. Choose the opposing combatant robots similarly as in (3). 
 5. Move to the Rules tab and editthe number of rounds, size of battlefield etc , and then start the battle.
+
+# Basic Reading on the strategies
+[1] Secrets from the Robocode masters, Anti-gravity movement: URL: https://www.ibm.com/developerworks/library/j-antigrav/index.html
+
+[2] Secrets from the Robocode masters, Circular targeting: URL:https://www.ibm.com/developerworks/library/j-circular/index.html
