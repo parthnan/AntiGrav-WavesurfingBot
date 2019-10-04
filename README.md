@@ -19,7 +19,7 @@ The tournament, held in Osaka University, had 14 registered teams, and fought Ro
 
 The results are as below. My team, number 8, won every single matchup with a good margin. During the tournament runs that were played for showcasing, the complex pattern of movement as well as the aggressive aiming(Wavesurfing) of our bots was evident.
 
-![alt text](https://raw.githubusercontent.com/parthnan/Shell-With-n-Pipe-in-C/master/images/alias.png)
+![alt text](https://raw.githubusercontent.com/parthnan/AntiGrav-WavesurfingBot/master/images/winall.png)
 
 
 # Basic Reading on the strategies
