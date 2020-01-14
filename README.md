@@ -1,7 +1,7 @@
 # Anti Gravity + Wavesurfing Bot (used in Robocode tournaments)
 [![HitCount](http://hits.dwyl.com/parthnan/AntiGrav-WavesurfingBot.svg)](http://hits.dwyl.com/parthnan/AntiGrav-WavesurfingBot)
 
-Project to create a competitive Robot team of 3 Robots using Java in the software "Robocode"(https://robocode.sourceforge.io/) to fight in a 3 v 3 v 3 tournament. Free For All matches with a 3 bot team, opposing 3 bot team, and a standard "Walls.bot" team. This bot team won the tournament of decisively, with 13 victories and 0 losses, while also being a lightweight bot(<25kB). 
+Project to create a competitive Robot team of 3 Robots using Java in the software "Robocode"(https://robocode.sourceforge.io/) to fight in a 3 v 3 v 3 tournament. Free For All matches with a 3 bot team, opposing 3 bot team, and a standard "Walls.bot" team. This bot team won the tournament of decisively, with 13 victories and 0 losses, while also being a lightweight bot(<25kB). 　
 
 # Summary of the bots
 The bot uses two main strategies called AntiGravity(反重力)[link 1] for unpredictable (complex pattern) movement and Wavesurfing for finding targets from opposing teams regardless of angular orientation(like a 360 degree Radar). 
