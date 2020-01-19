@@ -23,7 +23,7 @@ My team, won every single matchup with a good margin.
 
 ![alt text](https://raw.githubusercontent.com/parthnan/AntiGrav-WavesurfingBot/master/winall.png)
 
-
+ 
 # Basic Reading on the strategies
 [1] Secrets from the Robocode masters, Anti-gravity movement: URL: https://www.ibm.com/developerworks/library/j-antigrav/index.html
 
