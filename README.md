@@ -19,7 +19,7 @@ Technical details for these three strategies and their implementation is in the 
 [3] Wavesurfing radar algorithm for robocode robots: URL:https://robowiki.net/wiki/Wave_Surfing_Tutorial
 
 
-# How to create your own instance of this robot team
+# Create your own instance of this robot team code
 1. Download the Robocode and Install.
 2. Download and place the folder "group08" inside the folder "robocode/robots".  
 3. Upon running Robocode, on the top left choose "Battle->New". In the list of packages choose "group08" -> "Team_group08_2018" to get a team of three OR select G08_Leader to get a single robot under "Robots".
