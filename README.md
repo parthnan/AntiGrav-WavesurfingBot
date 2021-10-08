@@ -3,8 +3,8 @@
 
 Project to create a competitive Robot team of 3 Robots using Java for Robocode(https://robocode.sourceforge.io/) to fight in a 3 v 3 v 3 tournament. Free For All matches with a 3 bot team, opposing 3 bot team, and a standard "Walls.bot" team. This bot team won the tournament of decisively, with 13 victories and 0 losses, while also being a lightweight bot(<25kB). 
 
-# Summary of the bots
-The bot uses two main strategies called AntiGravity(反重力)[link 1] for unpredictable (complex pattern) movement and Wavesurfing for finding targets from opposing teams regardless of angular orientation(like a 360 degree Radar). 
+# Summary of the strategy coded in the robot team
+The bot uses two main strategies called AntiGravity(反重力)[link 1 below] for unpredictable (complex pattern) movement and Wavesurfing[link 3 below] for finding targets from opposing teams regardless of angular orientation(like a 360 degree Radar). 
 A third and easy-to implement Ramming stategy, or physically colliding with opponents also used for attacking. 
 
 The details for these three strategies and their implementation is in the two files : PRESENTATION and DETAILREPORT (in Japanese, tournament held in Japan.).
@@ -20,6 +20,8 @@ The details for these three strategies and their implementation is in the two fi
 [1] Secrets from the Robocode masters, Anti-gravity movement: URL: https://www.ibm.com/developerworks/library/j-antigrav/index.html
 
 [2] Secrets from the Robocode masters, Circular targeting: URL:https://www.ibm.com/developerworks/library/j-circular/index.html
+
+[3] Wavesurfing radar algorithm for robocode robots: URL:https://robowiki.net/wiki/Wave_Surfing_Tutorial
 
 # Tournament Results
 Round Robin Tournament where each match consisted of a 100 battles, victory based on a complex points system(counting survival, number of misses, net damage output etc.). 
