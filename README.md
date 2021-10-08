@@ -16,6 +16,11 @@ The details for these three strategies and their implementation is in the two fi
 4. Choose the opposing combatant robots as in (3). 
 5. Move to the Rules tab and editthe number of rounds, size of battlefield etc , and then start the battle.
 
+# Basic Reading on the strategies
+[1] Secrets from the Robocode masters, Anti-gravity movement: URL: https://www.ibm.com/developerworks/library/j-antigrav/index.html
+
+[2] Secrets from the Robocode masters, Circular targeting: URL:https://www.ibm.com/developerworks/library/j-circular/index.html
+
 # Tournament Results
 Round Robin Tournament where each match consisted of a 100 battles, victory based on a complex points system(counting survival, number of misses, net damage output etc.). 
 
@@ -24,7 +29,4 @@ My team, won every single matchup with a good margin.
 ![alt text](https://raw.githubusercontent.com/parthnan/AntiGrav-WavesurfingBot/master/winall.png)
 
  
-# Basic Reading on the strategies
-[1] Secrets from the Robocode masters, Anti-gravity movement: URL: https://www.ibm.com/developerworks/library/j-antigrav/index.html
 
-[2] Secrets from the Robocode masters, Circular targeting: URL:https://www.ibm.com/developerworks/library/j-circular/index.html
