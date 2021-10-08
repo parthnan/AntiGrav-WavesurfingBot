@@ -7,7 +7,9 @@ Project to create a competitive Robot team of 3 Robots using Java for Robocode(h
 The bot uses two main strategies called AntiGravity(反重力)[link 1 below] for unpredictable (complex pattern) movement and Wavesurfing[link 3 below] for finding targets from opposing teams regardless of angular orientation(like a 360 degree Radar). 
 A third and easy-to implement Ramming stategy, or physically colliding with opponents also used for attacking. 
 
-The details for these three strategies and their implementation is in the two files : PRESENTATION and DETAILREPORT (in Japanese, tournament held in Japan.).
+Technical details for these three strategies and their implementation is in the two files: PRESENTATION and DETAILREPORT (in Japanese, tournament held in Japan.).
+
+![alt text](https://raw.githubusercontent.com/parthnan/AntiGrav-WavesurfingBot/master/ExampleSurfing.png)
 
 # How to Use
 1. Download the Robocode and Install.
